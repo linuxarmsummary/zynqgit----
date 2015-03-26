@@ -1,0 +1,15 @@
+
+git clone git://github.com/Xilinx/linux-xlnx.git
+git clone https://github.com/Digilent/linux-digilent.git
+
+git clone git://git.denx.de/linux-denx.git
+
+projects / linux-denx.git / tree 
+
+   commit grep author committer pickaxe ? search:  re
+
+summary | shortlog | log | commit | commitdiff | tree
+snapshot
+
+Update from v3.14 to v3.14.17
+git clone git://git.denx.de/linux-denx.git
