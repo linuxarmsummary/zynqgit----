@@ -13,3 +13,6 @@ snapshot
 
 Update from v3.14 to v3.14.17
 git clone git://git.denx.de/linux-denx.git
+
+//更新内核为v3.14.17 
+ git checkout --track  origin/xilinx-zynq-v3.14.17 
